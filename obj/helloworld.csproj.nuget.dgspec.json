@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soren\\dev\\spu\\csc3220\\helloworld\\helloworld.csproj": {}
+    "C:\\Users\\soren\\dev\\spu\\csc3220\\csc3220-example1\\helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soren\\dev\\spu\\csc3220\\helloworld\\helloworld.csproj": {
+    "C:\\Users\\soren\\dev\\spu\\csc3220\\csc3220-example1\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soren\\dev\\spu\\csc3220\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\soren\\dev\\spu\\csc3220\\csc3220-example1\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "C:\\Users\\soren\\dev\\spu\\csc3220\\helloworld\\helloworld.csproj",
+        "projectPath": "C:\\Users\\soren\\dev\\spu\\csc3220\\csc3220-example1\\helloworld.csproj",
         "packagesPath": "C:\\Users\\soren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soren\\dev\\spu\\csc3220\\helloworld\\obj\\",
+        "outputPath": "C:\\Users\\soren\\dev\\spu\\csc3220\\csc3220-example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soren\\AppData\\Roaming\\NuGet\\NuGet.Config",
