@@ -9,9 +9,9 @@ namespace helloworld
 {
     class Dog
     {
-        public static string BarkMessage = "Ruff";
-        public static int BarkCount = 1;
-        public static void Bark()
+        public string BarkMessage = "Ruff";
+        public int BarkCount = 1;
+        public void Bark()
         {
             for (int count = 0; count < BarkCount; count++)
             {

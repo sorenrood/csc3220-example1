@@ -6,9 +6,9 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
-            Dog.BarkCount = 5;
-            Dog.BarkMessage = "Ruff";
-            Dog.Bark();
+            Dog jakob = new Dog();
+            jakob.BarkCount = 5;
+            jakob.Bark();
         }
     }
 }
